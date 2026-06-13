@@ -96,6 +96,10 @@ Growth Analysis
 
 ---
 
+![Netflix Dashboard](Netflix_Dashboard.png)
+
+---
+
 ## Key Insights
 
 1. Movies Dominate the Catalog
@@ -173,7 +177,7 @@ A balanced portfolio across audiences, genres, and regions can help Netflix stre
 
 ## Dashboard Preview
 
-![Netflix Dashboard](Nextflix%Dashboard/netflix_dashboard.png)
+![Netflix Dashboard](Netflix_Dashboard.png)
 
 ---
 
