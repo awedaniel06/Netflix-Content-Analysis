@@ -158,6 +158,10 @@ Increase content production across additional countries to reduce geographic con
 
 ---
 
+Full report Details ![Netflix-report](Netflix_Insights_Report.pdf)
+
+----
+
 ## Tools Used
 
 - Power BI
