@@ -96,7 +96,7 @@ Growth Analysis
 
 ---
 
-![Netflix Dashboard](Netflix_Dashboard.png)
+![`Netflix_Dashboard`](Netflix_Dashboard.png)
 
 ---
 
@@ -158,7 +158,7 @@ Increase content production across additional countries to reduce geographic con
 
 ---
 
-Full report Details ![Netflix-report](Netflix_Insights_Report.pdf)
+Full report Details ![`Netflix report`](Netflix_Insights_Report.pdf)
 
 ----
 
